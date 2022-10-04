@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <Counter />
       <h2>Todo List!!</h2>
-      <Todo/>
+      <Todo />
     </div>
   );
 }
 
-export default App
+export default App;
